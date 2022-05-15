@@ -4,7 +4,7 @@ public class Caluculator {
         ///
 
     }
-    public static void sub(int a, intb){
+    public static void sub(int a, int b){
         System.out.println(a-b);
     }
 }
